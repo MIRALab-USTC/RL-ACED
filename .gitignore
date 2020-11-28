@@ -1,0 +1,12 @@
+*/*/mjkey.txt
+**/.DS_STORE
+**/*.pyc
+**/*.swp
+data
+nips_plot
+MANIFEST
+.vscode
+.vs*
+.VS*
+*.egg-info
+\.idea/
